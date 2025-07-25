@@ -1,0 +1,12 @@
+=== Results for 127.0.0.1 === 
+[+] Port 135 is open
+[No banner received] 
+[+] Port 445 is open
+[No banner received] 
+=== Results for 8.8.8.8 === 
+[+] Port 53 is open
+[No banner received] 
+[+] Port 443 is open
+[No banner received] 
+[+] Port 853 is open
+[No banner received] 
